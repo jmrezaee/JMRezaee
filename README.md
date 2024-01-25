@@ -29,6 +29,8 @@ Front-End Developer
 ![Jira](https://img.shields.io/badge/-Jira-000?&logo=jirasoftware)
 ![Wordpress](https://img.shields.io/badge/-Wordpress-000?&logo=wordpress)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmrezaee&theme=gotham&show_icons=true" alt="Mehrdad Rezaee" />
+
 ### Stay in touch:
 [![Instagram](https://img.shields.io/badge/-Instagram-000?&logo=Instagram)](https://www.instagram.com/jmrezaee)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0077B5)](https://linkedin.com/in/jmrezaee)
